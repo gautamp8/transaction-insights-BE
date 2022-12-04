@@ -1,0 +1,10 @@
+arrow
+fastapi
+flatten_json
+gunicorn
+loguru
+notifiers
+pydantic
+pyotp
+python-dotenv
+uvicorn
